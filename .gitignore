@@ -1,3 +1,7 @@
+notebooks/config.yml
+notebooks/tempdata/*
+notebooks/aerosol_classification/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
